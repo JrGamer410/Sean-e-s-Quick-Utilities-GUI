@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Sean-e's Quick Utilities GUI", "Sean-e's Quick Utilities GUI\Sean-e's Quick Utilities GUI.vbproj", "{A65F8B3B-D7C5-4E5C-9D4B-BF0F86A37207}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A65F8B3B-D7C5-4E5C-9D4B-BF0F86A37207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65F8B3B-D7C5-4E5C-9D4B-BF0F86A37207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65F8B3B-D7C5-4E5C-9D4B-BF0F86A37207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65F8B3B-D7C5-4E5C-9D4B-BF0F86A37207}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C581E86-E4D7-4557-A848-6A262C0F844D}
+	EndGlobalSection
+EndGlobal

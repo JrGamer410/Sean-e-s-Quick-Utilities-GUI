@@ -1,0 +1,19 @@
+C:\Users\srjam\source\repos\Sean-e's Quick Utilities GUI\Sean-e's Quick Utilities GUI\bin\Debug\Sean-e's Quick Utilities GUI.exe
+C:\Users\srjam\source\repos\Sean-e's Quick Utilities GUI\Sean-e's Quick Utilities GUI\bin\Debug\Sean-e's Quick Utilities GUI.pdb
+C:\Users\srjam\source\repos\Sean-e's Quick Utilities GUI\Sean-e's Quick Utilities GUI\bin\Debug\Sean-e's Quick Utilities GUI.xml
+C:\Users\srjam\source\repos\Sean-e's Quick Utilities GUI\Sean-e's Quick Utilities GUI\obj\Debug\Sean-e's Quick Utilities GUI.vbproj.AssemblyReference.cache
+C:\Users\srjam\source\repos\Sean-e's Quick Utilities GUI\Sean-e's Quick Utilities GUI\obj\Debug\Sean_e_s_Quick_Utilities_GUI.Form1.resources
+C:\Users\srjam\source\repos\Sean-e's Quick Utilities GUI\Sean-e's Quick Utilities GUI\obj\Debug\Sean_e_s_Quick_Utilities_GUI.Resources.resources
+C:\Users\srjam\source\repos\Sean-e's Quick Utilities GUI\Sean-e's Quick Utilities GUI\obj\Debug\Sean-e's Quick Utilities GUI.vbproj.GenerateResource.cache
+C:\Users\srjam\source\repos\Sean-e's Quick Utilities GUI\Sean-e's Quick Utilities GUI\obj\Debug\Sean-e's Quick Utilities GUI.vbproj.CoreCompileInputs.cache
+C:\Users\srjam\source\repos\Sean-e's Quick Utilities GUI\Sean-e's Quick Utilities GUI\obj\Debug\Sean-e's Quick Utilities GUI.exe
+C:\Users\srjam\source\repos\Sean-e's Quick Utilities GUI\Sean-e's Quick Utilities GUI\obj\Debug\Sean-e's Quick Utilities GUI.xml
+C:\Users\srjam\source\repos\Sean-e's Quick Utilities GUI\Sean-e's Quick Utilities GUI\obj\Debug\Sean-e's Quick Utilities GUI.pdb
+C:\Users\srjam\source\repos\Sean-e's Quick Utilities GUI\Sean-e's Quick Utilities GUI\obj\Debug\Sean_e_s_Quick_Utilities_GUI.LMC.resources
+C:\Users\srjam\source\repos\Sean-e's Quick Utilities GUI\Sean-e's Quick Utilities GUI\obj\Debug\Sean_e_s_Quick_Utilities_GUI.FileDownloader.resources
+C:\Users\srjam\source\repos\Sean-e's Quick Utilities GUI\Sean-e's Quick Utilities GUI\obj\Debug\Sean_e_s_Quick_Utilities_GUI.BasicFileTools.resources
+C:\Users\srjam\source\repos\Sean-e's Quick Utilities GUI\Sean-e's Quick Utilities GUI\bin\Debug\Sean-e's Quick Utilities GUI.exe.config
+C:\Users\srjam\source\repos\Sean-e's Quick Utilities GUI\Sean-e's Quick Utilities GUI\obj\Debug\Sean_e_s_Quick_Utilities_GUI.About.resources
+C:\Users\srjam\source\repos\Sean-e's Quick Utilities GUI\Sean-e's Quick Utilities GUI\obj\Debug\Sean_e_s_Quick_Utilities_GUI.RenameFile.resources
+C:\Users\srjam\source\repos\Sean-e's Quick Utilities GUI\Sean-e's Quick Utilities GUI\obj\Debug\Sean_e_s_Quick_Utilities_GUI.MassUserCreator.resources
+C:\Users\srjam\source\repos\Sean-e's Quick Utilities GUI\Sean-e's Quick Utilities GUI\obj\Debug\Sean_e_s_Quick_Utilities_GUI.MathConverters.resources
