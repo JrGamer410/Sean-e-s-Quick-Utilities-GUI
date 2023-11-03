@@ -17,6 +17,10 @@ Me.Close()
 End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        Dim current_times As Integer = 0
+        While current_times <> NumericUpDown1.Value
+            current_times = current_times + 1
 
+        End While
     End Sub
 End Class

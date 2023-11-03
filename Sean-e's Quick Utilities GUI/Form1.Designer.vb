@@ -41,7 +41,7 @@ Partial Class Form1
         'ListBox1
         '
         Me.ListBox1.FormattingEnabled = True
-        Me.ListBox1.Items.AddRange(New Object() {"All Unrestrict", "Logon Message Changer", "Manage UAC", "File Downloader", "Basic File Tools", "Open a program or file", "Enable Edge Uninstall", "Mass User Creator", "Math Converters", "What is my IP?", "Mass App Copier", "Restart Explorer"})
+        Me.ListBox1.Items.AddRange(New Object() {"All Unrestrict", "Logon Message Changer", "Manage UAC", "File Downloader", "Basic File Tools", "Open a program or file", "Enable Edge Uninstall", "Mass User Creator", "Math Converters", "What is my IP?", "Mass App Copier", "Restart Explorer", "MLA Bibliographic Generator"})
         Me.ListBox1.Location = New System.Drawing.Point(15, 25)
         Me.ListBox1.Name = "ListBox1"
         Me.ListBox1.Size = New System.Drawing.Size(297, 264)

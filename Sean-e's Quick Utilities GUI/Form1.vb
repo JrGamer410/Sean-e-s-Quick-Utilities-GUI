@@ -122,6 +122,8 @@ Would you like to enable it?", 4 + 32, "Manage UAC")
                     End Using
                 End Using
             End Using
+        ElseIf ListBox1.SelectedItem.ToString = "MLA Bibliographic Generator" Then
+            BibliographicGenerator.Show()
         End If
     End Sub
 

@@ -17,3 +17,4 @@ C:\Users\srjam\source\repos\Sean-e's Quick Utilities GUI\Sean-e's Quick Utilitie
 C:\Users\srjam\source\repos\Sean-e's Quick Utilities GUI\Sean-e's Quick Utilities GUI\obj\Debug\Sean_e_s_Quick_Utilities_GUI.RenameFile.resources
 C:\Users\srjam\source\repos\Sean-e's Quick Utilities GUI\Sean-e's Quick Utilities GUI\obj\Debug\Sean_e_s_Quick_Utilities_GUI.MassUserCreator.resources
 C:\Users\srjam\source\repos\Sean-e's Quick Utilities GUI\Sean-e's Quick Utilities GUI\obj\Debug\Sean_e_s_Quick_Utilities_GUI.MathConverters.resources
+C:\Users\srjam\source\repos\Sean-e's Quick Utilities GUI\Sean-e's Quick Utilities GUI\obj\Debug\Sean_e_s_Quick_Utilities_GUI.BibliographicGenerator.resources

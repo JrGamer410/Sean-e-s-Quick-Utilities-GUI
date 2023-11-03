@@ -85,6 +85,12 @@
     <Compile Include="BasicFileTools.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="BibliographicGenerator.Designer.vb">
+      <DependentUpon>BibliographicGenerator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BibliographicGenerator.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FileDownloader.Designer.vb">
       <DependentUpon>FileDownloader.vb</DependentUpon>
     </Compile>
@@ -145,6 +151,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="BasicFileTools.resx">
       <DependentUpon>BasicFileTools.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BibliographicGenerator.resx">
+      <DependentUpon>BibliographicGenerator.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FileDownloader.resx">
       <DependentUpon>FileDownloader.vb</DependentUpon>
